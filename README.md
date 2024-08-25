@@ -1,4 +1,4 @@
-<p><H3>Name : Santhosh U</H3>
+<H3>Name : Santhosh U</H3>
 <H3>Register No : 212222240092</H3>
 <H3>EX. NO.1</H3>
 <H3>25-08-2024</H3>
@@ -117,5 +117,4 @@ print(len(x_test))
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
-</p>
 
